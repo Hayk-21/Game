@@ -1,0 +1,41 @@
+body {
+    padding: 0;
+    margin: 0;
+    background: #25282f;
+}
+
+#cube {
+    width: 10px;
+    height: 10px;
+    margin: 5px;
+}
+
+th {
+    text-align: center;
+}
+
+td {
+    text-align: center;
+}
+
+.btn-ship {
+    margin: 0;
+    width: 18px;
+    height: 20px;
+    display: block;
+    background: #25282f;
+    cursor: crosshair;
+}
+
+.btn-ship:hover {
+    background: #e74f35;
+}
+
+#done {
+    width: auto;
+    margin-top: 250px;
+}
+
+#done img {
+    width: auto;
+}
